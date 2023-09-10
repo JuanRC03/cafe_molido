@@ -1,0 +1,45 @@
+<?xml version="1.0" standalone="yes"?>
+<DataSet1 xmlns="http://tempuri.org/DataSet1.xsd">
+  <tblFactura>
+    <cedula>0650116353</cedula>
+    <nombre>Tatiana Carrillo</nombre>
+    <fechaYhora>13/7/2021 16:12:28</fechaYhora>
+    <total>24,08</total>
+  </tblFactura>
+  <tblFactura>
+    <cedula>0650116353</cedula>
+    <nombre>Tatiana Carrillo</nombre>
+    <fechaYhora>13/7/2021 16:14:45</fechaYhora>
+    <total>19,6</total>
+  </tblFactura>
+  <tblFactura>
+    <cedula>0650116353</cedula>
+    <nombre>Tatiana Carrillo</nombre>
+    <fechaYhora>13/7/2021 16:19:39</fechaYhora>
+    <total>5,6</total>
+  </tblFactura>
+  <tblFactura>
+    <cedula>0650116353</cedula>
+    <nombre>Tatiana Carrillo</nombre>
+    <fechaYhora>13/7/2021 16:22:17</fechaYhora>
+    <total>15,68</total>
+  </tblFactura>
+  <tblFactura>
+    <cedula>0650116353</cedula>
+    <nombre>Tatiana Carrillo</nombre>
+    <fechaYhora>13/7/2021 16:49:14</fechaYhora>
+    <total>3,92</total>
+  </tblFactura>
+  <tblFactura>
+    <cedula>0650116353</cedula>
+    <nombre>Tatiana Carrillo</nombre>
+    <fechaYhora>13/7/2021 16:52:38</fechaYhora>
+    <total>15,12</total>
+  </tblFactura>
+  <tblFactura>
+    <cedula>0650116353</cedula>
+    <nombre>Tatiana Carrillo</nombre>
+    <fechaYhora>13/7/2021 17:04:38</fechaYhora>
+    <total>3,92</total>
+  </tblFactura>
+</DataSet1>

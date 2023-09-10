@@ -1,0 +1,582 @@
+C:\Users\My Notebook\source\WinAppCafeteria\WinAppCafeteria\bin\Debug\WinAppCafeteria.exe.config
+C:\Users\My Notebook\source\WinAppCafeteria\WinAppCafeteria\bin\Debug\WinAppCafeteria.exe
+C:\Users\My Notebook\source\WinAppCafeteria\WinAppCafeteria\bin\Debug\WinAppCafeteria.pdb
+C:\Users\My Notebook\source\WinAppCafeteria\WinAppCafeteria\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\My Notebook\source\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.csprojAssemblyReference.cache
+C:\Users\My Notebook\source\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.Form1.resources
+C:\Users\My Notebook\source\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.Properties.Resources.resources
+C:\Users\My Notebook\source\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.csproj.GenerateResource.cache
+C:\Users\My Notebook\source\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.csproj.CoreCompileInputs.cache
+C:\Users\My Notebook\source\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.csproj.CopyComplete
+C:\Users\My Notebook\source\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.exe
+C:\Users\My Notebook\source\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.pdb
+C:\Users\My Notebook\source\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.WinAppIngreso.resources
+C:\Users\My Notebook\source\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.Buscar.resources
+C:\Users\My Notebook\source\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.BuscarModificar.resources
+C:\Users\My Notebook\source\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.DuscarEliminar.resources
+C:\Users\LENOVO\Desktop\WinAppCafeteria\WinAppCafeteria\bin\Debug\WinAppCafeteria.exe.config
+C:\Users\LENOVO\Desktop\WinAppCafeteria\WinAppCafeteria\bin\Debug\WinAppCafeteria.exe
+C:\Users\LENOVO\Desktop\WinAppCafeteria\WinAppCafeteria\bin\Debug\WinAppCafeteria.pdb
+C:\Users\LENOVO\Desktop\WinAppCafeteria\WinAppCafeteria\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\LENOVO\Desktop\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.Buscar.resources
+C:\Users\LENOVO\Desktop\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.buscarCliente.resources
+C:\Users\LENOVO\Desktop\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.BuscarModificar.resources
+C:\Users\LENOVO\Desktop\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.buscarTipo.resources
+C:\Users\LENOVO\Desktop\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.DuscarEliminar.resources
+C:\Users\LENOVO\Desktop\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.EliminarCliente.resources
+C:\Users\LENOVO\Desktop\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.eliminarTipo.resources
+C:\Users\LENOVO\Desktop\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.Form1.resources
+C:\Users\LENOVO\Desktop\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.ingresarTipo.resources
+C:\Users\LENOVO\Desktop\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.ingresoCliente.resources
+C:\Users\LENOVO\Desktop\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.modificarCliente.resources
+C:\Users\LENOVO\Desktop\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.modificarTipo.resources
+C:\Users\LENOVO\Desktop\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.Properties.Resources.resources
+C:\Users\LENOVO\Desktop\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.WinAppIngreso.resources
+C:\Users\LENOVO\Desktop\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.csproj.GenerateResource.cache
+C:\Users\LENOVO\Desktop\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.csproj.CopyComplete
+C:\Users\LENOVO\Desktop\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.exe
+C:\Users\LENOVO\Desktop\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.pdb
+C:\Users\My Notebook\Downloads\MR\WinAppCafeteria\WinAppCafeteria\bin\Debug\WinAppCafeteria.exe.config
+C:\Users\My Notebook\Downloads\MR\WinAppCafeteria\WinAppCafeteria\bin\Debug\WinAppCafeteria.exe
+C:\Users\My Notebook\Downloads\MR\WinAppCafeteria\WinAppCafeteria\bin\Debug\WinAppCafeteria.pdb
+C:\Users\My Notebook\Downloads\MR\WinAppCafeteria\WinAppCafeteria\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\My Notebook\Downloads\MR\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.csprojAssemblyReference.cache
+C:\Users\My Notebook\Downloads\MR\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.Buscar.resources
+C:\Users\My Notebook\Downloads\MR\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.buscarCliente.resources
+C:\Users\My Notebook\Downloads\MR\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.BuscarModificar.resources
+C:\Users\My Notebook\Downloads\MR\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.buscarTipo.resources
+C:\Users\My Notebook\Downloads\MR\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.DuscarEliminar.resources
+C:\Users\My Notebook\Downloads\MR\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.EliminarCliente.resources
+C:\Users\My Notebook\Downloads\MR\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.eliminarTipo.resources
+C:\Users\My Notebook\Downloads\MR\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.Form1.resources
+C:\Users\My Notebook\Downloads\MR\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.ingresarTipo.resources
+C:\Users\My Notebook\Downloads\MR\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.ingresoCliente.resources
+C:\Users\My Notebook\Downloads\MR\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.modificarCliente.resources
+C:\Users\My Notebook\Downloads\MR\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.modificarTipo.resources
+C:\Users\My Notebook\Downloads\MR\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.Properties.Resources.resources
+C:\Users\My Notebook\Downloads\MR\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.WinAppIngreso.resources
+C:\Users\My Notebook\Downloads\MR\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.csproj.GenerateResource.cache
+C:\Users\My Notebook\Downloads\MR\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.csproj.CoreCompileInputs.cache
+C:\Users\My Notebook\Downloads\MR\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.csproj.CopyComplete
+C:\Users\My Notebook\Downloads\MR\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.exe
+C:\Users\My Notebook\Downloads\MR\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.pdb
+C:\Users\My Notebook\Downloads\MR\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.Actulaizacion.resources
+C:\Users\My Notebook\Downloads\MR\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.IngresarVentaCliente.resources
+C:\Users\My Notebook\Downloads\MR\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.RegistrarBuscarCliente.resources
+C:\Users\My Notebook\Downloads\MR\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.VentaProductos.resources
+C:\Users\My Notebook\Downloads\MR\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.BuscarVenta.resources
+C:\Users\My Notebook\Downloads\MR\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.Cantidad.resources
+C:\Users\My Notebook\Downloads\MR\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.AgregarIva.resources
+C:\Users\My Notebook\Downloads\MR\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.IngresarUsuario.resources
+C:\Users\My Notebook\Downloads\MR\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.BusquedaUsuario.resources
+C:\Users\My Notebook\Downloads\MR\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.ModificarUsuario.resources
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\bin\Debug\WinAppCafeteria.exe.config
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\bin\Debug\WinAppCafeteria.exe
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\bin\Debug\WinAppCafeteria.pdb
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\bin\Debug\EnvDTE.dll
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\bin\Debug\stdole.dll
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\bin\Debug\Microsoft.MSXML.dll
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.Actulaizacion.resources
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.AgregarIva.resources
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.Buscar.resources
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.buscarCliente.resources
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.BuscarModificar.resources
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.buscarTipo.resources
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.BuscarVenta.resources
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.BusquedaUsuario.resources
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.Cantidad.resources
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.DuscarEliminar.resources
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.EliminarCliente.resources
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.eliminarTipo.resources
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.Form1.resources
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.FrmReporte1.resources
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.ingresarTipo.resources
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.IngresarUsuario.resources
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.IngresarVentaCliente.resources
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.ingresoCliente.resources
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.modificarCliente.resources
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.modificarTipo.resources
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.ModificarUsuario.resources
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.Properties.Resources.resources
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.RegistrarBuscarCliente.resources
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.VentaProductos.resources
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.WinAppIngreso.resources
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.csproj.GenerateResource.cache
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\obj\Debug\RdlCompile.cache
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\obj\Debug\RdlCompile.compiled
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.csproj.CopyComplete
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.exe
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.pdb
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.FrmReporte2.resources
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.FrmReporte3.resources
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.FrmReporte4.resources
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.FrmReporte5.resources
+C:\Users\USUARIO\Downloads\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.FrmReporte6.resources
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\bin\Debug\WinAppCafeteria.pdb
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\bin\Debug\EnvDTE.dll
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\bin\Debug\stdole.dll
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\bin\Debug\Microsoft.MSXML.dll
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.csprojAssemblyReference.cache
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.Actulaizacion.resources
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.AgregarIva.resources
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.Buscar.resources
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.buscarCliente.resources
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.BuscarModificar.resources
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.buscarTipo.resources
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.BuscarVenta.resources
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.BusquedaUsuario.resources
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.Cantidad.resources
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.DuscarEliminar.resources
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.EliminarCliente.resources
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.eliminarTipo.resources
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.Form1.resources
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.FrmReporte1.resources
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.FrmReporte2.resources
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.FrmReporte3.resources
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.FrmReporte4.resources
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.FrmReporte5.resources
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.FrmReporte6.resources
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.ingresarTipo.resources
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.IngresarUsuario.resources
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.IngresarVentaCliente.resources
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.ingresoCliente.resources
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.modificarCliente.resources
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.modificarTipo.resources
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.ModificarUsuario.resources
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.Properties.Resources.resources
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.RegistrarBuscarCliente.resources
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.VentaProductos.resources
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.WinAppIngreso.resources
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.csproj.GenerateResource.cache
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\obj\Debug\RdlCompile.cache
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\obj\Debug\RdlCompile.compiled
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.csproj.CoreCompileInputs.cache
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.csproj.CopyComplete
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.pdb
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.ConfirmacionCorreo.resources
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.PasarDatosDeCliente.resources
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.InicioRegistro.resources
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.login.resources
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\bin\Debug\WinAppCafeteria.exe.config
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\bin\Debug\WinAppCafeteria.exe
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.exe
+C:\Users\My Notebook\Downloads\impresor\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.EliminarUsuario.resources
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\bin\Debug\WinAppCafeteria.exe.config
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\bin\Debug\WinAppCafeteria.exe
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\bin\Debug\WinAppCafeteria.pdb
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\bin\Debug\EnvDTE.dll
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\bin\Debug\stdole.dll
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\bin\Debug\Microsoft.MSXML.dll
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.csproj.AssemblyReference.cache
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.Actulaizacion.resources
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.AgregarIva.resources
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.Buscar.resources
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.buscarCliente.resources
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.BuscarModificar.resources
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.buscarTipo.resources
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.BuscarVenta.resources
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.BusquedaUsuario.resources
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.Cantidad.resources
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.ConfirmacionCorreo.resources
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.DuscarEliminar.resources
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.EliminarCliente.resources
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.eliminarTipo.resources
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.EliminarUsuario.resources
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.Form1.resources
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.FrmReporte1.resources
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.FrmReporte2.resources
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.FrmReporte3.resources
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.FrmReporte4.resources
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.FrmReporte5.resources
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.FrmReporte6.resources
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.ingresarTipo.resources
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.IngresarUsuario.resources
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.IngresarVentaCliente.resources
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.ingresoCliente.resources
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.InicioRegistro.resources
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.login.resources
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.modificarCliente.resources
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.modificarTipo.resources
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.ModificarUsuario.resources
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.PasarDatosDeCliente.resources
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.Properties.Resources.resources
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.RegistrarBuscarCliente.resources
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.VentaProductos.resources
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.WinAppIngreso.resources
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.csproj.GenerateResource.cache
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\obj\Debug\RdlCompile.cache
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\obj\Debug\RdlCompile.compiled
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.csproj.CopyComplete
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.exe
+C:\Users\USUARIO\Downloads\Cafetería\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.pdb
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\bin\Debug\WinAppCafeteria.exe.config
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\bin\Debug\WinAppCafeteria.exe
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\bin\Debug\WinAppCafeteria.pdb
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\bin\Debug\EnvDTE.dll
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\bin\Debug\stdole.dll
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\bin\Debug\Microsoft.MSXML.dll
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.csprojAssemblyReference.cache
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.Actulaizacion.resources
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.AgregarIva.resources
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.Buscar.resources
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.buscarCliente.resources
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.BuscarModificar.resources
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.buscarTipo.resources
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.BuscarVenta.resources
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.BusquedaUsuario.resources
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.Cantidad.resources
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.ConfirmacionCorreo.resources
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.DuscarEliminar.resources
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.EliminarCliente.resources
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.eliminarTipo.resources
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.EliminarUsuario.resources
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.Form1.resources
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.FrmReporte1.resources
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.FrmReporte2.resources
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.FrmReporte3.resources
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.FrmReporte4.resources
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.FrmReporte5.resources
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.FrmReporte6.resources
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.ingresarTipo.resources
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.IngresarUsuario.resources
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.IngresarVentaCliente.resources
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.ingresoCliente.resources
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.InicioRegistro.resources
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.login.resources
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.modificarCliente.resources
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.modificarTipo.resources
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.ModificarUsuario.resources
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.PasarDatosDeCliente.resources
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.Properties.Resources.resources
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.RegistrarBuscarCliente.resources
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.VentaProductos.resources
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.WinAppIngreso.resources
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.csproj.GenerateResource.cache
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\obj\Debug\RdlCompile.cache
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\obj\Debug\RdlCompile.compiled
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.csproj.CoreCompileInputs.cache
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.csproj.CopyComplete
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.exe
+C:\Users\My Notebook\Downloads\impresor\cafe3\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.pdb
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\bin\Debug\WinAppCafeteria.exe.config
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\bin\Debug\WinAppCafeteria.exe
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\bin\Debug\WinAppCafeteria.pdb
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\bin\Debug\EnvDTE.dll
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\bin\Debug\stdole.dll
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\bin\Debug\Microsoft.MSXML.dll
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.csprojAssemblyReference.cache
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.Actulaizacion.resources
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.AgregarIva.resources
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.Buscar.resources
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.buscarCliente.resources
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.BuscarModificar.resources
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.buscarTipo.resources
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.BuscarVenta.resources
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.BusquedaUsuario.resources
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.Cantidad.resources
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.ConfirmacionCorreo.resources
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.DuscarEliminar.resources
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.EliminarCliente.resources
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.eliminarTipo.resources
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.EliminarUsuario.resources
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.Form1.resources
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.FrmReporte1.resources
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.FrmReporte2.resources
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.FrmReporte3.resources
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.FrmReporte4.resources
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.FrmReporte5.resources
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.FrmReporte6.resources
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.ingresarTipo.resources
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.IngresarUsuario.resources
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.IngresarVentaCliente.resources
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.ingresoCliente.resources
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.InicioRegistro.resources
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.login.resources
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.modificarCliente.resources
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.modificarTipo.resources
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.ModificarUsuario.resources
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.PasarDatosDeCliente.resources
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.Properties.Resources.resources
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.RegistrarBuscarCliente.resources
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.VentaProductos.resources
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.WinAppIngreso.resources
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.csproj.GenerateResource.cache
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\obj\Debug\RdlCompile.cache
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\obj\Debug\RdlCompile.compiled
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.csproj.CoreCompileInputs.cache
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.csproj.CopyComplete
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.exe
+C:\Users\My Notebook\Downloads\Octavo\DESARROLLO Y OPERACIONES DE SOFTWARE\Parcial 2\Actividades Grupales\WinAppCafeteria\WinAppCafeteria\obj\Debug\WinAppCafeteria.pdb

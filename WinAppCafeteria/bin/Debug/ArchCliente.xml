@@ -1,0 +1,11 @@
+<?xml version="1.0" standalone="yes"?>
+<DataSet1 xmlns="http://tempuri.org/DataSet1.xsd">
+  <tblCliente>
+    <cedula>0650116353</cedula>
+    <nombre>Tatiana Carrillo</nombre>
+    <edad>20</edad>
+    <genero>Femenino</genero>
+    <email>tatycarrillo1209@gmail.com</email>
+    <ciudad>Riobamba</ciudad>
+  </tblCliente>
+</DataSet1>

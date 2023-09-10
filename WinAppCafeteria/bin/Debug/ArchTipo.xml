@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+<DataSet1 xmlns="http://tempuri.org/DataSet1.xsd">
+  <tblTipoProducto>
+    <codigoTipo>A001</codigoTipo>
+    <nombreTipo>Bebidas calientes</nombreTipo>
+    <descripcionTipo>Se incluyen muchas bebidas estimulantes, tales como los distintos tipos de café, té o mate, además de otro tipo de infusiones y bebidas como el chocolate caliente, que pueden incluir también leche caliente.</descripcionTipo>
+  </tblTipoProducto>
+  <tblTipoProducto>
+    <codigoTipo>B001</codigoTipo>
+    <nombreTipo>Jugos</nombreTipo>
+    <descripcionTipo>Sustancias líquidas que se extraen de los vegetales o frutas, el conjunto de procesos intermedios puede suponer la cocción, molienda o centrifugación de producto original.</descripcionTipo>
+  </tblTipoProducto>
+</DataSet1>

@@ -1,0 +1,23 @@
+<?xml version="1.0" standalone="yes"?>
+<DataSet1 xmlns="http://tempuri.org/DataSet1.xsd">
+  <tblUsuario>
+    <cedula>0650116353</cedula>
+    <nombre>Tatiana Carrillo</nombre>
+    <edad>20</edad>
+    <genero>Femenino</genero>
+    <email>tatycarrillo1209@gmail.com</email>
+    <ciudad>Riobamba</ciudad>
+    <usuario>tatianacarrillo@cafemolino.com</usuario>
+    <contrasenia>1</contrasenia>
+  </tblUsuario>
+  <tblUsuario>
+    <cedula>0604895045</cedula>
+    <nombre>Anthony Yunda</nombre>
+    <edad>20</edad>
+    <genero>Masculino</genero>
+    <email>yunda573@gmail.com</email>
+    <ciudad>Riobamba</ciudad>
+    <usuario>anthonyyunda@cafemolino.com</usuario>
+    <contrasenia>123456</contrasenia>
+  </tblUsuario>
+</DataSet1>

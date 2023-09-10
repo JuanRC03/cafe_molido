@@ -1,0 +1,19 @@
+<?xml version="1.0" standalone="yes"?>
+<DataSet1 xmlns="http://tempuri.org/DataSet1.xsd">
+  <tblProducto>
+    <codigoProducto>A001-0001</codigoProducto>
+    <nombreProducto>Café expreso</nombreProducto>
+    <tipoProducto>Bebidas calientes</tipoProducto>
+    <presentacionProducto>Lata de hojalata</presentacionProducto>
+    <precioProducto>2,50</precioProducto>
+    <DescripcionProducto>Rápida preparación a una alta presión, por un sabor y textura más concentrados.</DescripcionProducto>
+  </tblProducto>
+  <tblProducto>
+    <codigoProducto>A001-0002</codigoProducto>
+    <nombreProducto>Capuchino</nombreProducto>
+    <tipoProducto>Bebidas calientes</tipoProducto>
+    <presentacionProducto>Lata de hojalata</presentacionProducto>
+    <precioProducto>3,50</precioProducto>
+    <DescripcionProducto>Bebida preparada con café expreso y leche montada con vapor para darle cremosidad.</DescripcionProducto>
+  </tblProducto>
+</DataSet1>
